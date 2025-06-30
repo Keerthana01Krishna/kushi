@@ -1,2 +1,2 @@
 # kushi
-<a href="index.html"></a>
+<a href="index.html">Click Here</a>
